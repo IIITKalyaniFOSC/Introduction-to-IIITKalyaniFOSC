@@ -34,4 +34,10 @@ Till now, it's not fixed, but we will start from very basic projects so that eve
 
 - After this you will added to GitHub of IIITKalyaniFoSC in span of 1 day after verification.
 
-- Wait for next update...(coming very soon...)
+- The most important thing you should know is 'Git'. So start learning about git, github and all those confusing terms. Here are the some resources you will surely love:
+
+1. Very basic and fun way to learn git: https://try.github.io/
+
+2. git - the simple guide: https://rogerdudler.github.io/git-guide/
+
+Feel free to ask any doubts in '#doubts' channel on Slack and those who already know, __must help__.
