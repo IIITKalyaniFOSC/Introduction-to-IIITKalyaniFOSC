@@ -4,7 +4,7 @@
 
 Being in college having only Computer Science and Engineering is one of our biggest advantage. We all are learning various programming languages for year(s) now and most of us are comfortable in them. The problem is very few of us are actually implementing what we learn. Just seeing video lectures and reading books is not a way to code. We have to actually start building small projects and implement our own ideas in what you We learning. This projects will help to build up many skills including actual thinking process to solve certain problem.
 
-By creating this organisation, we are trying to acheive same thing. No one is senior here and no one is junior. We all are trying to acheive one common problem.
+By creating this organisation, we are trying to acheive same thing. No one is senior here and no one is junior. We all are trying to solve one common problem.
 So be ready for this journey!!!
 
 ## How this will work?
