@@ -1,4 +1,4 @@
-# Introduction to IIITKalyaniFoSC
+# Introduction to IIITKalyaniFOSC
 
 ## What is this?
 
@@ -12,7 +12,7 @@ So be ready for this journey!!!
 Our organisation will work in a way most of the developers and companies work. This will also give us qualities like group discussions, ability to explain your problem and be responsive.
 There will be only two official ways to communicate:
 
-- Github - https://github.com/IIITKalyaniFoSC
+- Github - https://github.com/IIITKalyaniFOSC
 
 - Slack - https://iiitkalyanifosc.slack.com
 
@@ -32,7 +32,7 @@ Till now, it's not fixed, but we will start from very basic projects so that eve
 
 - In the '__#intro__' channel, introduce yourself in short with your coding background. You also have to mention your GitHub account link which is required to add you to this organisation.
 
-- After this you will added to GitHub of IIITKalyaniFoSC in span of 1 day after verification.
+- After this you will added to GitHub of IIITKalyaniFOSC in span of 1 day after verification.
 
 - The most important thing you should know is 'Git'. So start learning about git, github and all those confusing terms. Here are the some resources you will surely love:
 
