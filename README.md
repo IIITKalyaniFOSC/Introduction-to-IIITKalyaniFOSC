@@ -14,7 +14,7 @@ There will be only two official ways to communicate:
 
 - Github - https://github.com/IIITKalyaniFOSC
 
-- Slack - https://iiitkalyanifosc.slack.com
+- Slack - https://iiitkalyanifosc.slack.com/signup
 
 Slack will be only offcial way to communicate.
 
@@ -22,7 +22,9 @@ Everyone has to register to slack account and will make proper groups according 
 
 ## What projects?
 
-Till now, it's not fixed, but we will start from very basic projects so that everyone can participate.
+- FOSC Website
+- Papervault
+- Design Jam(competition)
 
 ## What should I do now?
 
