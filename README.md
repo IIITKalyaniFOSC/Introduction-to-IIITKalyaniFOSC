@@ -6,7 +6,7 @@ Being in college having only Computer Science and Engineering is one of our bigg
 
 By creating this organisation, we are trying to acheive same thing. No one is senior here and no one is junior. We all are trying to solve one common problem.
 So be ready for this journey!!!
-
+My name is Harsh Raj!I love COding and learning new things.
 ## How this will work?
 
 Our organisation will work in a way most of the developers and companies work. This will also give us qualities like group discussions, ability to explain your problem and be responsive.
