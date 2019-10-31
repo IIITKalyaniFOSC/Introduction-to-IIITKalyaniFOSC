@@ -14,8 +14,6 @@ There will be only two official ways to communicate:
 
 - Github - https://github.com/IIITKalyaniFOSC
 
-- Slack - https://iiitkalyanifosc.slack.com/signup
-
 Slack will be only offcial way to communicate.
 
 Everyone has to register to slack account and will make proper groups according to projects to communicate with team members.
